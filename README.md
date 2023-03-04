@@ -1,0 +1,5 @@
+# UE5_LevelInstanceTest
+LevelInstanceのテスト
+
+・Cubeアクター2個を十字形に配置してレベルインスタンス化  
+・レベルインスタンスの編集でCubeの厚みを変えたりして挙動を確認
